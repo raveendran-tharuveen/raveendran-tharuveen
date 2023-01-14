@@ -7,4 +7,4 @@ Teaching Assistant at Kumon Inc.
 
 🌱 I am currently learning Javascript and React Native
 🤔 Seeking Computer/Software engineer co-op opportunities
-📩 You can reach me through my email: thar7@my.yorku.ca or Linkedin: linkedin.com/in/tharuveen-raveendran
+📩 You can reach me through my email: thar7@my.yorku.ca or Linkedin: www.linkedin.com/in/tharuveen-raveendran
