@@ -1,7 +1,7 @@
 # Tharuveen Raveendran
 Hey there!! 👋
 
-My name is Tharuveen Raveendran and I am a third year Computer Engineering student at York University
+My name is Tharuveen Raveendran and I am a fourth year Computer Engineering student at York University
 
 Teaching Assistant at Kumon Inc.
 
