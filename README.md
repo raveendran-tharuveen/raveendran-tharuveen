@@ -1,4 +1,4 @@
-👋 Hey there!
+👋 Hi there!
 
 I’m Tharuveen Raveendran, a fifth-year Computer Engineering student at York University with a strong foundation in programming and problem-solving. I specialize in Java and Python but have experience working with technologies like JavaScript, React, Next.js, and SQLite.
 
