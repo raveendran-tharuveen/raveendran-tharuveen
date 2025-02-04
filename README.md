@@ -1,12 +1,10 @@
-# Tharuveen Raveendran
-Hey there!! 👋
+👋 Hey there!
 
-My name is Tharuveen Raveendran and I am a fourth year Computer Engineering student at York University
+I’m Tharuveen Raveendran, a fifth-year Computer Engineering student at York University with a strong foundation in programming and problem-solving. I specialize in Java and Python but have experience working with technologies like JavaScript, React, Next.js, and SQLite.
 
-Teaching Assistant at Kumon Inc.
+🌱 I’m passionate about learning and currently expanding my skills in mobile app development and web application design.
 
-🌱 I am currently learning Javascript and React Native
+🚀 I’m actively seeking new graduate Software Engineer opportunities to apply my skills and contribute to impactful projects.
 
-🤔 Seeking Computer/Software engineer co-op opportunities
-
-📩 You can reach me through my email: thar7@my.yorku.ca or Linkedin: www.linkedin.com/in/tharuveen-raveendran
+📩 Feel free to reach out!
+📩 Let's Connect: Feel free to reach out via email at thar7@my.yorku.ca or connect on linkedin.com/in/tharuveen-raveendran
