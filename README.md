@@ -6,5 +6,4 @@ I’m Tharuveen Raveendran, a fifth-year Computer Engineering student at York Un
 
 🚀 I’m actively seeking new graduate Software Engineer opportunities to apply my skills and contribute to impactful projects.
 
-📩 Feel free to reach out!
 📩 Let's Connect: Feel free to reach out via email at thar7@my.yorku.ca or connect on www.linkedin.com/in/tharuveen-raveendran
